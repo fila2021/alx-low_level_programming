@@ -1,4 +1,4 @@
-# ALX-Low Level Programming 
+# Low Level Programming 
 
 The content in this repository is on low level programming in the C language. Module of System engineering and Devops, carried out during Full Stack Software Engineering studies at [ALX Africa](https://www.alxafrica.com//).
 
