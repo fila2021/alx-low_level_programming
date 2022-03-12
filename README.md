@@ -16,8 +16,8 @@ You can access everything in here by [forking](https://docs.github.com/en/github
 ## Projects
 All of the following folders are projects done during the studies:
 
-| Project name | Description |
-| ------------ | ----------- |
+| Project name |
+| ------------ |
 | [0x00-hello_world](https://github.com/fila2021/alx-low_level_programming/tree/master/0x00-hello_world) |
 | [0x01-variables_if_else_while](https://github.com/fila2021/alx-low_level_programming/tree/master/0x01-variables_if_else_while) |
 
