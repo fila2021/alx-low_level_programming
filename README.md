@@ -23,3 +23,7 @@ All of the following folders are projects done during the studies:
 
 # Author
 Filmawit Mekonen <[fila2021](https://github.com/fila2021)>
+
+<p align="center">
+  <img src="https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png" alt="ALX">
+</p>
