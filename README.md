@@ -18,8 +18,8 @@ All of the following folders are projects done during the studies:
 
 | Project name | Description |
 | ------------ | ----------- |
-| [0x00-hello_world](https://github.com/fila2021/alx-low_level_programming/tree/master/0x00-hello_world) | It aims to learn about basics commands, navigation, files and directories in Shell |
-| [0x01-variables_if_else_while](https://github.com/fila2021/alx-low_level_programming/tree/master/0x01-variables_if_else_while) | It aims to learn about man pages, permissions (owner, group and other) of files and directories in Shell |
+| [0x00-hello_world](https://github.com/fila2021/alx-low_level_programming/tree/master/0x00-hello_world) |
+| [0x01-variables_if_else_while](https://github.com/fila2021/alx-low_level_programming/tree/master/0x01-variables_if_else_while) |
 
 # Author
 Filmawit Mekonen <[fila2021](https://github.com/fila2021)>
