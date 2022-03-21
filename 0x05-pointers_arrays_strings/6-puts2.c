@@ -4,7 +4,6 @@
  * @str: pointer to the string to print
  * Return: void
 */
-
 void puts2(char *str)
 {
 	int i, j = 0;
