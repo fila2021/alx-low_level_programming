@@ -4,19 +4,18 @@
  * @str: pointer to the string to print
  * Return: void
 */
+
 void puts2(char *str)
 {
-	int i, j = 0;
-
-	while (str[i] != '\0')
+int i = 0;
+while (str[i] != '\0')
+{
+	if (i % 2 == 0)
 	{
-		i++;
+		_putchar(str[i]);
 	}
 
-	while (j < i)
-	{
-		_putchar(str[j]);
-		j = j + 2;
-	}
-	_putchar('\n');
+	i++;
+}
+_putchar('\n');
 }
