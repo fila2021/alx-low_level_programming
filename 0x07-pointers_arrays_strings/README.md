@@ -23,7 +23,7 @@ in the project.
 | `5-strstr.c` | `char *_strstr(char *haystack, char *needle);`          |
 | `7-print_chessboard.c` | `void print_chessboard(char (*a)[8]);`        |
 | `8-print_diagsums.c` | `void print_diagsums(int *a, int size);`        |
-| `9-set_string.c` | `void set_string(char **s, char *to);`              |
+| `100-set_string.c` | `void set_string(char **s, char *to);`              |
 
 ## Tasks :page_with_curl:
 
@@ -67,7 +67,7 @@ in the project.
   diagonals of a square matrix of integers.
 
 * **8. Double pointer, double fun**
-  * [9-set_string.c](./9-set_string.c): C function that sets the value of a pointer to a char.
+  * [100-set_string.c](./9-set_string.c): C function that sets the value of a pointer to a char.
 
 * **9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure**
   * [101-crackme_password](./101-crackme_password): File containing the password for
