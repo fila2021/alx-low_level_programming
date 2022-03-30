@@ -23,6 +23,8 @@ All of the following folders are projects done during the studies:
 * [0x04-more_functions_nested_loops](https://github.com/fila2021/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops)
 * [0x05-pointers_arrays_strings](https://github.com/fila2021/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
 * [0x06-pointers_arrays_strings](https://github.com/fila2021/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings)
+* [0x07-pointers_arrays_strings](https://github.com/fila2021/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings)
+* [0x08-recursion](https://github.com/fila2021/alx-low_level_programming/tree/master/0x08-recursion)
 
 # Author :black_nib:
 Filmawit Mekonen <[fila2021](https://github.com/fila2021)>
